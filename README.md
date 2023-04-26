@@ -2,7 +2,8 @@
 
 data - employee attendence data from HR
 
-Tool - POWER BI desktop, power query - collect, clean & transform data
+Tool - POWER BI desktop
+
 
 objective (HR Requirtements)
 
@@ -20,9 +21,9 @@ objective (HR Requirtements)
 
 Result
 
-1) reduced the spending on infrastructure by 36% and on employee training events by 12%
+1) reduced the spending on infrastructure by 36% and on employee training events by 18%
 
-2) increased client satisfaction by 7%
+2) increased client satisfaction by 6%
 
  future scope of this project
 
@@ -31,3 +32,5 @@ Result
 3) setting security levels for data
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/83853757/234506606-7ba762d1-3ec1-46ef-a0c2-5ab9c3e1e6dd.png)
+
+![Screenshot (38)](https://user-images.githubusercontent.com/83853757/234585083-ffc8b42b-2638-4b3a-a454-a0acb7b491e0.png)
